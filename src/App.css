@@ -20,3 +20,23 @@
 .App-link {
   color: #09d3ac;
 }
+
+.button {
+  min-width: 100px;
+  padding: 0.5rem;
+}
+.buttonA {
+  background: green;
+}
+
+.buttonB {
+  background: red;
+}
+
+.highlight {
+  color: blue
+}
+.list {
+  margin: 0 auto;
+  max-width: 400px;
+}
