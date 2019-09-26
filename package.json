@@ -2,7 +2,7 @@
   "name": "nhs-test-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kiddhustle.github.io/test-fizz-buzz",
+  "homepage": "https://kiddhustle.github.io/test-fizz-buzz/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
