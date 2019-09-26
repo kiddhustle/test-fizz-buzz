@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/test-fizz-buzz/static/css/main.77dd4a47.chunk.css",
-    "main.js": "/test-fizz-buzz/static/js/main.bf55a88d.chunk.js",
-    "main.js.map": "/test-fizz-buzz/static/js/main.bf55a88d.chunk.js.map",
+    "main.css": "/test-fizz-buzz/static/css/main.2a4e3246.chunk.css",
+    "main.js": "/test-fizz-buzz/static/js/main.31100059.chunk.js",
+    "main.js.map": "/test-fizz-buzz/static/js/main.31100059.chunk.js.map",
     "runtime-main.js": "/test-fizz-buzz/static/js/runtime-main.3bfdec7d.js",
     "runtime-main.js.map": "/test-fizz-buzz/static/js/runtime-main.3bfdec7d.js.map",
     "static/js/2.ac8bc81f.chunk.js": "/test-fizz-buzz/static/js/2.ac8bc81f.chunk.js",
     "static/js/2.ac8bc81f.chunk.js.map": "/test-fizz-buzz/static/js/2.ac8bc81f.chunk.js.map",
     "index.html": "/test-fizz-buzz/index.html",
-    "precache-manifest.72b09f15af66909c8a3b004cf8932730.js": "/test-fizz-buzz/precache-manifest.72b09f15af66909c8a3b004cf8932730.js",
+    "precache-manifest.bd2054e002c2565e590dc01f0e68fcc2.js": "/test-fizz-buzz/precache-manifest.bd2054e002c2565e590dc01f0e68fcc2.js",
     "service-worker.js": "/test-fizz-buzz/service-worker.js",
-    "static/css/main.77dd4a47.chunk.css.map": "/test-fizz-buzz/static/css/main.77dd4a47.chunk.css.map",
-    "static/media/logo.svg": "/test-fizz-buzz/static/media/logo.25bf045c.svg"
+    "static/css/main.2a4e3246.chunk.css.map": "/test-fizz-buzz/static/css/main.2a4e3246.chunk.css.map"
   }
 }
